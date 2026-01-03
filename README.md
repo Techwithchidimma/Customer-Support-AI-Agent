@@ -1,2 +1,2 @@
 # Customer-Support-AI-Agent
-AI powered customer suooport chat agent built with N8N and OpenAI
+AI powered customer support chat agent built with N8N and OpenAI
